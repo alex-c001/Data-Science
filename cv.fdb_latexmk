@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1781856656.88467 "/home/alexandru/Dokumente/Arbeit/Anschreiben/Junior/Data Science/cv.tex" "cv.pdf" "cv" 1781856659.38974 0
+["lualatex"] 1782895794.47719 "/home/alexandru/Dokumente/Arbeit/Anschreiben/Junior/Data Science/cv.tex" "cv.pdf" "cv" 1782895797.7926 0
   "/etc/fonts/conf.d/10-hinting-slight.conf" 1711846774 620 5da52d777c5af2cb4b7445b81ead6c3d ""
   "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf" 1711846774 2068 8588f87eaf68a1eb73920066f6817b48 ""
   "/etc/fonts/conf.d/10-sub-pixel-rgb.conf" 1711846774 672 e58e3be3a96cfa19b6cc53f27845e65a ""
@@ -92,7 +92,7 @@
   "/home/alexandru/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/sourcesanspro-lightit.luc" 1776245628.32339 186095 53ac84d08b23c108aff947768b345484 ""
   "/home/alexandru/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/sourcesanspro-regular.luc" 1776245627.9514 581035 6234b67a17959ee2c9a9dc8d8c8e4064 ""
   "/home/alexandru/.texlive2023/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz" 1780310421.61159 447833 9b051e646871d9d90de15be94e744d40 ""
-  "/home/alexandru/Dokumente/Arbeit/Anschreiben/Junior/Data Science/cv.tex" 1781856562.78982 1099 1919d1a5edcfa4ee1effdd2365d71a2f ""
+  "/home/alexandru/Dokumente/Arbeit/Anschreiben/Junior/Data Science/cv.tex" 1782895669.99642 1155 6f4bb40873c9e89fe471fc1afab83dc9 ""
   "/usr/share/texlive/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Brands-Regular-400.otf" 1651520503 183524 4e4e091c8163681db1b0891d5ece3926 ""
   "/usr/share/texlive/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Free-Regular-400.otf" 1651520503 55256 441b46536e1b8be6369a5ec2d672a8e6 ""
   "/usr/share/texlive/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Free-Solid-900.otf" 1651520503 303808 739de9ca58fff4c828629df35cb81f89 ""
@@ -324,15 +324,15 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1771758391.46358 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/tex/generic/config/language.dat" 1771758394.03952 5334 f07ec1c0f33e068ed63f4a776f254914 ""
   "/var/lib/texmf/web2c/luahbtex/lualatex.fmt" 1771758422 12237789 c70dcc1044c85f7321595fe5557e5651 ""
-  "cv.aux" 1781856659.13856 1416 694c4f5432775077c9e01445eefc8b77 "lualatex"
-  "cv.out" 1781856659.14056 564 ba72654cc6881bdb148029f4c4277abc "lualatex"
-  "cv.tex" 1781856562.78982 1099 1919d1a5edcfa4ee1effdd2365d71a2f ""
+  "cv.aux" 1782895797.53432 1416 f060fdeb186cca0074b9de53ce60bf6a "lualatex"
+  "cv.out" 1782895797.53632 564 ba72654cc6881bdb148029f4c4277abc "lualatex"
+  "cv.tex" 1782895669.99642 1155 6f4bb40873c9e89fe471fc1afab83dc9 ""
   "fonts/SourceSansPro-Light.otf" 1662426860 226032 779f3bf41b852b5582d41cd866ca3ddc ""
   "fonts/SourceSansPro-Regular.otf" 1662426860 229588 5e1d162e634a102d7da8db597825a764 ""
   "foto.jpeg" 1781685566.0532 757811 a1019681f1b6b38e0293ea11d7921257 ""
-  "section_bildung.tex" 1781856563.70578 1873 08c2e33a892dfa1b1ce0a6af148d4833 ""
-  "section_experience_short.tex" 1781856565.86168 2213 bcf6c29bd3c996268e98753ad45a29d7 ""
-  "section_skills.tex" 1781856567.43461 563 1b9e04a586d3a00de4244bc7d7e1e600 ""
+  "section_bildung.tex" 1782895786.45542 1959 ac86dd088990ff7da4bcb6e507eb40ed ""
+  "section_experience_short.tex" 1782895677.98735 1924 67c4ad12823a1c5f700360d092770584 ""
+  "section_skills.tex" 1782895685.09129 558 b8e0b216e43d73064d935bc3acd80d9e ""
   "section_sprachen.tex" 1778245825.56283 375 752937ce91eac37834233606d98f1ccf ""
   "yaac-another-awesome-cv.cls" 1778248036.39179 15349 f00b96873a9867693b084b0c43d5bade ""
   (generated)
